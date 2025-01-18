@@ -142,5 +142,3 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request p
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 ```
 
-Guarda este contenido en un archivo llamado `README.md` en el directorio raíz de tu proyecto.
-Guarda este contenido en un archivo llamado `README.md` en el directorio raíz de tu proyecto.   
