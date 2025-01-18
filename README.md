@@ -1,4 +1,4 @@
-# Proyecto SRNE
+# Proyecto SRNE ML2440
 
 Este proyecto se encarga de la comunicación con un dispositivo Modbus a través de un puerto serie para controlar y monitorear diferentes parámetros.
 
