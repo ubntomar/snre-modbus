@@ -7,7 +7,7 @@ Este proyecto se encarga de la comunicación con un dispositivo Modbus a través
 - Python 3.x
 - Biblioteca `pymodbus`
 - Permisos para acceder al puerto serie
-
+- Tener en cuenta que se debe convertir la señal tipo rs232 del ML2440 usando   un modulo  max232 para generar  ttl y luego con un ttl a usb  se establece la comunicación al PC.
 ## Instalación
 
 1. Clona el repositorio:
